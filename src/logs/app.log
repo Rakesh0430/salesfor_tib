@@ -1,0 +1,34 @@
+2024-10-08 11:27:48,134 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-10-08 11:27:48,134 - INFO -  * Running on http://192.168.11.168:8000/ (Press CTRL+C to quit)
+2024-10-08 11:29:00,772 - INFO - 127.0.0.1 - - [08/Oct/2024 11:29:00] "GET / HTTP/1.1" 200 -
+2024-10-08 11:29:00,828 - INFO - 127.0.0.1 - - [08/Oct/2024 11:29:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-08 11:29:47,336 - INFO - 127.0.0.1 - - [08/Oct/2024 11:29:47] "[31m[1mGET /insert-records HTTP/1.1[0m" 405 -
+2024-10-08 11:30:43,277 - INFO - 127.0.0.1 - - [08/Oct/2024 11:30:43] "[31m[1mGET /insert-records HTTP/1.1[0m" 405 -
+2024-10-08 11:30:43,351 - INFO - 127.0.0.1 - - [08/Oct/2024 11:30:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-08 11:32:30,817 - INFO - Successfully authenticated with Salesforce.
+2024-10-08 11:32:34,905 - INFO - Successfully inserted batch of 200 records
+2024-10-08 11:32:38,620 - INFO - Successfully inserted batch of 200 records
+2024-10-08 11:32:40,857 - INFO - Successfully inserted batch of 100 records
+2024-10-08 11:32:40,861 - INFO - Records inserted into Salesforce.
+2024-10-08 11:32:40,861 - INFO - 127.0.0.1 - - [08/Oct/2024 11:32:40] "POST /insert-records HTTP/1.1" 200 -
+2024-10-08 11:33:36,879 - INFO - Successfully fetched data from Salesforce.
+2024-10-08 11:33:36,918 - INFO - Data successfully saved to salesforce_data_20241008_113336.csv
+2024-10-08 11:33:36,918 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241008_113336.csv
+2024-10-08 11:33:36,918 - INFO - 127.0.0.1 - - [08/Oct/2024 11:33:36] "GET /fetch-data HTTP/1.1" 200 -
+2024-10-08 11:36:49,902 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-10-08 11:36:49,904 - INFO -  * Running on http://192.168.11.168:8000/ (Press CTRL+C to quit)
+2024-10-08 11:37:53,478 - INFO - Successfully authenticated with Salesforce.
+2024-10-08 11:37:54,309 - INFO - Successfully fetched data from Salesforce.
+2024-10-08 11:37:54,357 - INFO - Data successfully saved to salesforce_data_20241008_113754.csv
+2024-10-08 11:37:54,357 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241008_113754.csv
+2024-10-08 11:37:54,357 - INFO - Scheduled task completed.
+2024-10-08 11:38:55,445 - INFO - Successfully fetched data from Salesforce.
+2024-10-08 11:38:55,485 - INFO - Data successfully saved to salesforce_data_20241008_113855.csv
+2024-10-08 11:38:55,485 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241008_113855.csv
+2024-10-08 11:38:55,488 - INFO - Scheduled task completed.
+2024-10-08 11:39:56,370 - INFO - Successfully fetched data from Salesforce.
+2024-10-08 11:39:56,418 - INFO - Data successfully saved to salesforce_data_20241008_113956.csv
+2024-10-08 11:39:56,418 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241008_113956.csv
+2024-10-08 11:39:56,418 - INFO - Scheduled task completed.
