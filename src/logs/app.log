@@ -32,3 +32,127 @@
 2024-10-08 11:39:56,418 - INFO - Data successfully saved to salesforce_data_20241008_113956.csv
 2024-10-08 11:39:56,418 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241008_113956.csv
 2024-10-08 11:39:56,418 - INFO - Scheduled task completed.
+2024-10-14 13:00:35,363 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-10-14 13:00:35,367 - INFO -  * Running on http://192.168.11.168:8000/ (Press CTRL+C to quit)
+2024-10-14 13:01:29,720 - INFO - 127.0.0.1 - - [14/Oct/2024 13:01:29] "GET / HTTP/1.1" 200 -
+2024-10-14 13:01:29,757 - INFO - 127.0.0.1 - - [14/Oct/2024 13:01:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-14 13:01:38,863 - INFO - Successfully authenticated with Salesforce.
+2024-10-14 13:01:40,167 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 13:01:40,256 - INFO - Data successfully saved to salesforce_data_20241014_130140.csv
+2024-10-14 13:01:40,257 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_130140.csv
+2024-10-14 13:01:40,258 - INFO - Scheduled task completed.
+2024-10-14 13:02:41,662 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 13:02:41,704 - INFO - Data successfully saved to salesforce_data_20241014_130241.csv
+2024-10-14 13:02:41,704 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_130241.csv
+2024-10-14 13:02:41,707 - INFO - Scheduled task completed.
+2024-10-14 13:03:42,604 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 13:03:42,621 - INFO - Data successfully saved to salesforce_data_20241014_130342.csv
+2024-10-14 13:03:42,621 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_130342.csv
+2024-10-14 13:03:42,621 - INFO - Scheduled task completed.
+2024-10-14 13:04:19,378 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-10-14 13:04:19,378 - INFO -  * Running on http://192.168.11.168:8000/ (Press CTRL+C to quit)
+2024-10-14 13:05:15,603 - INFO - Successfully authenticated with Salesforce.
+2024-10-14 13:05:19,637 - INFO - Successfully inserted batch of 200 records
+2024-10-14 13:05:20,215 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 13:05:20,262 - INFO - Data successfully saved to salesforce_data_20241014_130520.csv
+2024-10-14 13:05:20,262 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_130520.csv
+2024-10-14 13:05:20,262 - INFO - Scheduled task completed.
+2024-10-14 13:05:23,733 - INFO - Successfully inserted batch of 200 records
+2024-10-14 13:05:26,092 - INFO - Successfully inserted batch of 100 records
+2024-10-14 13:05:26,107 - INFO - Records inserted into Salesforce.
+2024-10-14 13:05:26,107 - INFO - 127.0.0.1 - - [14/Oct/2024 13:05:26] "POST /insert-records HTTP/1.1" 200 -
+2024-10-14 13:05:37,685 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 13:05:37,729 - INFO - Data successfully saved to salesforce_data_20241014_130537.csv
+2024-10-14 13:05:37,729 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_130537.csv
+2024-10-14 13:05:37,729 - INFO - 127.0.0.1 - - [14/Oct/2024 13:05:37] "GET /fetch-data HTTP/1.1" 200 -
+2024-10-14 13:06:21,110 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 13:06:21,158 - INFO - Data successfully saved to salesforce_data_20241014_130621.csv
+2024-10-14 13:06:21,167 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_130621.csv
+2024-10-14 13:06:21,169 - INFO - Scheduled task completed.
+2024-10-14 17:08:34,876 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-10-14 17:08:34,876 - INFO -  * Running on http://192.168.11.168:8000/ (Press CTRL+C to quit)
+2024-10-14 17:09:19,044 - INFO - Successfully authenticated with Salesforce.
+2024-10-14 17:09:27,816 - INFO - Successfully inserted batch of 200 records
+2024-10-14 17:09:32,026 - INFO - Successfully inserted batch of 200 records
+2024-10-14 17:09:34,242 - INFO - Successfully inserted batch of 100 records
+2024-10-14 17:09:34,246 - INFO - Records inserted into Salesforce.
+2024-10-14 17:09:34,247 - INFO - 127.0.0.1 - - [14/Oct/2024 17:09:34] "POST /insert-records HTTP/1.1" 200 -
+2024-10-14 17:09:35,826 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:09:35,869 - INFO - Data successfully saved to salesforce_data_20241014_170935.csv
+2024-10-14 17:09:35,869 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_170935.csv
+2024-10-14 17:09:35,870 - INFO - Scheduled task completed.
+2024-10-14 17:10:37,126 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:10:37,168 - INFO - Data successfully saved to salesforce_data_20241014_171037.csv
+2024-10-14 17:10:37,168 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_171037.csv
+2024-10-14 17:10:37,169 - INFO - Scheduled task completed.
+2024-10-14 17:11:38,591 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:11:38,625 - INFO - Data successfully saved to salesforce_data_20241014_171138.csv
+2024-10-14 17:11:38,625 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_171138.csv
+2024-10-14 17:11:38,627 - INFO - Scheduled task completed.
+2024-10-14 17:12:39,431 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:12:39,467 - INFO - Data successfully saved to salesforce_data_20241014_171239.csv
+2024-10-14 17:12:39,467 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_171239.csv
+2024-10-14 17:12:39,468 - INFO - Scheduled task completed.
+2024-10-14 17:13:40,599 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:13:40,640 - INFO - Data successfully saved to salesforce_data_20241014_171340.csv
+2024-10-14 17:13:40,640 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_171340.csv
+2024-10-14 17:13:40,642 - INFO - Scheduled task completed.
+2024-10-14 17:14:41,520 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:14:41,549 - INFO - Data successfully saved to salesforce_data_20241014_171441.csv
+2024-10-14 17:14:41,550 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_171441.csv
+2024-10-14 17:14:41,550 - INFO - Scheduled task completed.
+2024-10-14 17:15:42,355 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:15:42,392 - INFO - Data successfully saved to salesforce_data_20241014_171542.csv
+2024-10-14 17:15:42,392 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_171542.csv
+2024-10-14 17:15:42,392 - INFO - Scheduled task completed.
+2024-10-14 17:16:43,256 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:16:43,302 - INFO - Data successfully saved to salesforce_data_20241014_171643.csv
+2024-10-14 17:16:43,302 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_171643.csv
+2024-10-14 17:16:43,305 - INFO - Scheduled task completed.
+2024-10-14 17:17:44,176 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:17:44,210 - INFO - Data successfully saved to salesforce_data_20241014_171744.csv
+2024-10-14 17:17:44,210 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_171744.csv
+2024-10-14 17:17:44,211 - INFO - Scheduled task completed.
+2024-10-14 17:18:45,059 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:18:45,108 - INFO - Data successfully saved to salesforce_data_20241014_171845.csv
+2024-10-14 17:18:45,109 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_171845.csv
+2024-10-14 17:18:45,109 - INFO - Scheduled task completed.
+2024-10-14 17:19:45,970 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:19:45,995 - INFO - Data successfully saved to salesforce_data_20241014_171945.csv
+2024-10-14 17:19:45,995 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_171945.csv
+2024-10-14 17:19:45,996 - INFO - Scheduled task completed.
+2024-10-14 17:20:46,827 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:20:46,849 - INFO - Data successfully saved to salesforce_data_20241014_172046.csv
+2024-10-14 17:20:46,849 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_172046.csv
+2024-10-14 17:20:46,849 - INFO - Scheduled task completed.
+2024-10-14 17:21:47,730 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:21:47,744 - INFO - Data successfully saved to salesforce_data_20241014_172147.csv
+2024-10-14 17:21:47,744 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_172147.csv
+2024-10-14 17:21:47,745 - INFO - Scheduled task completed.
+2024-10-14 17:22:48,517 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:22:48,555 - INFO - Data successfully saved to salesforce_data_20241014_172248.csv
+2024-10-14 17:22:48,555 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_172248.csv
+2024-10-14 17:22:48,556 - INFO - Scheduled task completed.
+2024-10-14 17:23:49,354 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:23:49,370 - INFO - Data successfully saved to salesforce_data_20241014_172349.csv
+2024-10-14 17:23:49,370 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_172349.csv
+2024-10-14 17:23:49,371 - INFO - Scheduled task completed.
+2024-10-14 17:24:50,241 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:24:50,276 - INFO - Data successfully saved to salesforce_data_20241014_172450.csv
+2024-10-14 17:24:50,276 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_172450.csv
+2024-10-14 17:24:50,276 - INFO - Scheduled task completed.
+2024-10-14 17:25:51,132 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:25:51,167 - INFO - Data successfully saved to salesforce_data_20241014_172551.csv
+2024-10-14 17:25:51,167 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_172551.csv
+2024-10-14 17:25:51,168 - INFO - Scheduled task completed.
+2024-10-14 17:26:52,340 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:26:52,382 - INFO - Data successfully saved to salesforce_data_20241014_172652.csv
+2024-10-14 17:26:52,382 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_172652.csv
+2024-10-14 17:26:52,382 - INFO - Scheduled task completed.
+2024-10-14 17:27:53,355 - INFO - Successfully fetched data from Salesforce.
+2024-10-14 17:27:53,386 - INFO - Data successfully saved to salesforce_data_20241014_172753.csv
+2024-10-14 17:27:53,386 - INFO - Data fetched from Salesforce and saved to salesforce_data_20241014_172753.csv
+2024-10-14 17:27:53,386 - INFO - Scheduled task completed.
